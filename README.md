@@ -1,1 +1,1 @@
-# bd-selfproxy
+# bd-selfproxy A proxy for Discord.
