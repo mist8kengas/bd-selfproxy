@@ -15,23 +15,26 @@ const header = {
     author: "darky & mist8kengas"
 }
 
-function getName(){
-    return header.name;
-}
-function getDescription(){
-    return header.description;
-}
-function getVersion(){
-    return header.version;
-}
-function getAuthor(){
-    return header.author;
-}
-
-/* main script */
-function start(){
-    console.log("Works!", new Date());
-}
-function stop(){
-    console.log("Stopped script", new Date());
+module.exports = class selfProxy {
+    /* getName(){
+        return header.name;
+    }
+    getDescription(){
+        return header.description;
+    }
+    getVersion(){
+        return header.version;
+    }
+    getAuthor(){
+        return header.author;
+    } */
+    
+    /* main script */
+    start(){
+        showToast("Your mom", {type: "success", icon: true});
+        console.log("Works!", new Date());
+    }
+    stop(){
+        console.log("Stopped script", new Date());
+    }
 }
