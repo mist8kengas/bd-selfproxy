@@ -1,5 +1,5 @@
 /**
- * @name bd-selfproxy
+ * @name bd_selfproxy
  * @version 0.0.1
  * @description Two words: \"Fuck etisalat.\"
  * 
@@ -15,7 +15,7 @@ const header = {
     author: "darky & mist8kengas"
 }
 
-module.exports = class selfProxy {
+module.exports = class bd_selfproxy {
     /* getName(){
         return header.name;
     }
