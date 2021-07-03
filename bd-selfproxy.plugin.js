@@ -1,7 +1,7 @@
 /**
  * @name bd-selfproxy
  * @version 0.0.1
- * @description Two words: \"Fuck etisalat.\"
+ * @description
  * 
  * @author mist8kengas & darky
  * @authorId 823128892558278656
