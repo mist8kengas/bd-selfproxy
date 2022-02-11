@@ -1,5 +1,5 @@
 # bd-selfproxy
-> A proxy for Discord.
+> A proxy plugin for BetterDiscord.
 
 ### Features
 - Proxies Discord traffic without having to use a VPN
