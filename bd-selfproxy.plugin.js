@@ -3,7 +3,7 @@
  * @version 0.0.1
  * @description
  * 
- * @author mist8kengas & darky
+ * @author mist8kengas & Flamesworth
  * @authorId 823128892558278656
  * @source https://github.com/mist8kengas/bd-selfproxy
  * @updateUrl https://github.com/mist8kengas/bd-selfproxy/blob/main/bd-selfproxy.plugin.js
